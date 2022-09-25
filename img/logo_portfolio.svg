@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="1 1 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="text-path-0" d="M -10.259034156799316 238.6422004699707 Q 12.741353034973145 197.7896270751953 35.741740226745605 238.6422004699707"/>
+  </defs>
+  <text style="fill: rgb(22, 224, 189); font-family: Arial, sans-serif; font-size: 36px; font-weight: 700; text-transform: uppercase; white-space: pre; mix-blend-mode: darken;" transform="matrix(1, 0, 0, 1, 37.237171, -184.507324)"><textPath xlink:href="#text-path-0"><title>logo_portfolio</title>JR</textPath></text>
+</svg>
